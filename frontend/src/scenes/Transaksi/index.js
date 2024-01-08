@@ -76,7 +76,7 @@ const Transaksi = () => {
 
   return (
     <Box m="20px">
-      <Header title="Daftar Transaksi" subtitle="Managing the Team Members" />
+      <Header title="LIST TRANSAKSI" subtitle="List of all Transaction" />
       <Box
         m="40px 0 0 0"
         height="75vh"
